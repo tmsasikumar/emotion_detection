@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+librosa
+flask
+fastapi
+uvicorn
+pytest
+docker
+requests
+boto3
+prometheus-client
